@@ -12,7 +12,7 @@ Resources:
     Properties:
       Budget:
         BudgetLimit:
-          Amount: 10
+          Amount: 400
           Unit: USD
         TimeUnit: MONTHLY
         BudgetType: COST
